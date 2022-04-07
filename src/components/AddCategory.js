@@ -1,5 +1,5 @@
 import React from "react";
 
 export const AddCategory = () => {
-  return <div>AddCategory</div>;
+  return <input type="text" placeholder="Introduce aqui" />;
 };
